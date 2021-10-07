@@ -1,7 +1,7 @@
 # DAM1-PROG-U2
 Ejercicios Unidad 2
 
-* Abre el archivo PDF (DAM1-PROG-U2\Unidad2\docs\*.pdf) para ver las descripciones de todos los algoritmos enumerados del paquete *.
+* Abre el archivo PDF (DAM1-PROG-U2\Unidad2\docs\\*.pdf) para ver las descripciones de todos los algoritmos enumerados del paquete *.
 * También encontrarás otros documentos de más programas que he ido haciendo del paquete *.
 * IDE Eclipse
 
