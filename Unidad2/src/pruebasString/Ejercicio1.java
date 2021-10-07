@@ -1,4 +1,4 @@
-package PruebasString;
+package pruebasString;
 
 public class Ejercicio1 {
 	/**
@@ -9,7 +9,7 @@ public class Ejercicio1 {
 	 */
 	public static void main(String[] args) {
 
-		String cad1 = "hOla ComO EstaS";
+		String cad1 = "hOla ¿ComO EstaS?, eSpEro qUe vAyA tODo bIEn!!";
 		System.out.println(cad1.substring(0, 1).toUpperCase() + cad1.substring(1).toLowerCase());
 
 	}

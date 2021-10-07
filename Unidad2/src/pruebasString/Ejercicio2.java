@@ -1,4 +1,4 @@
-package PruebasString;
+package pruebasString;
 
 public class Ejercicio2 {
 	/**
