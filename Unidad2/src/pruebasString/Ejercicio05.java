@@ -2,7 +2,7 @@ package pruebasString;
 
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class Ejercicio05 {
 	/**
 	 * Crea un programa Java que lea por teclado y muestre un mensaje con el número de
 	 * veces que ha aparecido la letra A y la letra E.

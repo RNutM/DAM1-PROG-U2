@@ -2,7 +2,7 @@ package pruebasString;
 
 import java.util.Scanner;
 
-public class Ejercicio6 {
+public class Ejercicio06 {
 	/**
 	 * Realizar un programa que haga lo siguiente: 
 	 * 1) Pida al usuario un número entero comprendido entre [10,25] y repita 
@@ -13,6 +13,7 @@ public class Ejercicio6 {
 	 * 
 	 * 3) Luego, el programa pedirá al usuario su nombre para mostrarle lo siguiente: 
 	 * Número de caracteres del nombre Carácter inicial y final Nombre en mayúsculas
+	 * 
 	 * Indicación de si la letra ñ o la Ñ forman parte de su nombre. 
 	 * 
 	 * NOTA 1: las excepciones deben gestionarse con la cláusula “throws IOException”.

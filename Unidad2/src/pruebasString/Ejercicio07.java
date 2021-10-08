@@ -2,7 +2,7 @@ package pruebasString;
 
 import java.util.*;
 
-public class Ejercicio7 {
+public class Ejercicio07 {
 	/**
 	 * Verificar si la cadena de texto almacenada en la String nif, es un NIF correcto o
 	 * no. Si lo es, se mostrará por consola su parte numérica; si no lo es se mostrará

@@ -1,4 +1,4 @@
-package extras;
+package pruebasString;
 
 import java.util.NoSuchElementException;
 import java.util.Scanner;
@@ -7,8 +7,9 @@ public class DniLetra {
 	/**
 	 * Verificar si la cadena de texto almacenada en la String nif, es un NIF correcto o
 	 * no. Si lo es, se mostrará por consola su parte numérica; si no lo es se mostrará
-	 * el mensaje "NIF no valido". Se tendrá en cuenta lo siguiente: Los NIFs tienen 8
-	 * dígitos y, a continuación, una letra (no importa que sea mayúscula o minúscula).
+	 * el mensaje "El NIF introducido es incorrecto". Se tendrá en cuenta lo siguiente:
+	 * Los NIFs tienen 8 dígitos y, a continuación, una letra (no importa que sea
+	 * mayúscula o minúscula).
 	 * 
 	 * @author Robert G
 	 */
@@ -41,7 +42,7 @@ public class DniLetra {
 		if (correcto) {
 			System.out.println("El NIF introducido es correcto");
 		} else {
-			System.out.println("El NIF introducido no es correcto");
+			System.out.println("El NIF introducido es incorrecto");
 			sc.close();
 		}
 
@@ -85,7 +86,7 @@ public class DniLetra {
 
 			}
 		} catch (NoSuchElementException e) {
-			System.out.println("Falta algún carácter y la excepción es esta -> " + e.getClass().getName());
+			System.out.println("Falta o sobra algún carácter y la excepción es esta -> " + e.getClass().getName());
 		}
 		sc.close();
 	}

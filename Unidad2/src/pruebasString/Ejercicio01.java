@@ -1,6 +1,6 @@
 package pruebasString;
 
-public class Ejercicio1 {
+public class Ejercicio01 {
 	/**
 	 * Realizar programa en el cual se defina una cadena de caracteres y mostrar esa
 	 * cadena por pantalla con la primera letra en mayúsculas y las demás en minúsculas.

@@ -2,7 +2,7 @@ package pruebasString;
 
 import java.util.Scanner;
 
-public class Ejercicio8 {
+public class Ejercicio08 {
 	/**
 	 * Realizar una clase, que permita cargar una dirección de mail en el constructor,
 	 * luego en otro método mostrar un mensaje si contiene el caracter '@'.

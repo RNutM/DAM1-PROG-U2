@@ -1,6 +1,6 @@
 package pruebasString;
 
-public class Ejercicio2 {
+public class Ejercicio02 {
 	/**
 	 * Crea un programa Java que defina una cadena de caracteres y los muestre con la
 	 * posición de sus caracteres invertida.

@@ -2,7 +2,7 @@ package pruebasString;
 
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class Ejercicio03 {
 	/**
 	 * Crea un programa Java que lea una cadena de teclado y la imprima al revés
 	 * 

@@ -2,7 +2,7 @@ package pruebasString;
 
 import java.util.Scanner;
 
-public class Ejercicio4 {
+public class Ejercicio04 {
 	/**
 	 * Determina si una cadena leída por teclado es o no un palíndromo: Palabra o
 	 * expresión que es igual si se lee de izquierda a derecha que de derecha a
