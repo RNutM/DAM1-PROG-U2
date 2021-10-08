@@ -7,7 +7,7 @@ public class Ejercicio09 {
 	/**
 	 * Desarrollar un programa que solicite la carga de una clave. La clase debe tener
 	 * dos métodos uno para la carga y otro que muestre si la clave es la correcta (la
-	 * clave a comparar es "123abc")
+	 * clave a comparar es "123abc" o la que queramos introducir).
 	 * 
 	 * @author Robert G
 	 * 

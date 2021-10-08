@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio10 {
 	/**
-	 * 10. Programa que pida al usuario que introduzca un conjunto de palabras (oración o
+	 * Programa que pida al usuario que introduzca un conjunto de palabras (oración o
 	 * frase) y luego muestre cada palabra en una linea diferente cada una.
 	 * 
 	 * @author Robert G
