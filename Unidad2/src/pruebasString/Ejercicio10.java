@@ -37,5 +37,5 @@ public class Ejercicio10 {
 
 /*
  * MUY IMPORTANTE: Darse cuenta de que en el método imprimir el system del else tiene
- * ser print y no println ya que imprimiria las palabras desglosadas a cada letra
+ * que ser print y no println ya que imprimiria las palabras desglosadas a cada letra
  */
