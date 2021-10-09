@@ -3,7 +3,7 @@ package pruebasArray;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ArrayMeses {
+public class ArrayMeses01 {
 	/**
 	 * Programa que pide introducir un número del 1 al 12 para después mostrar el mes del
 	 * año
@@ -51,7 +51,7 @@ public class ArrayMeses {
 
 		numero--;
 
-		ArrayMeses m = new ArrayMeses();
+		ArrayMeses01 m = new ArrayMeses01();
 
 		m.cambiaridiomaes();
 		m.imprimir(numero);// Devuelve el més solicitado
