@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class ArrayOperaciones {
 	/**
-	 * Programa que pide introducir números para almacenar en un array y despues los
-	 * muestra haciendo distintas operaciones con los elementos introducidos: Ordeno los
-	 * elementos del array y los muesto, suma, media, mayor elemento, número de pares e
+	 * Programa que pide introducir números para almacenar en un array y después los
+	 * muestra haciendo distintas operaciones con los elementos introducidos: Ordena los
+	 * elementos del array y los muestra, suma, media, mayor elemento, número de pares e
 	 * impares, buscar un número concreto en el array, suma de pares e impares, cuantos
 	 * elementos menores que el primero.
 	 * 

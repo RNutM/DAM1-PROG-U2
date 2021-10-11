@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Sueldos {
 	/**
-	 * Programa que pide introducir sueldos para almacenar en un array y despues los
+	 * Programa que pide introducir sueldos para almacenar en un array y después los
 	 * muestra
 	 * 
 	 * @author Robert G
